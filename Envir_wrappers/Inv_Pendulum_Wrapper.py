@@ -9,7 +9,7 @@ class ModifiedInvPendulum(gym.Wrapper):
 
 
 
-    def reset(self):
+    def reset(self): # Ensure each episode starts with the pendulum in the same upward position
 
 
         super().reset()
