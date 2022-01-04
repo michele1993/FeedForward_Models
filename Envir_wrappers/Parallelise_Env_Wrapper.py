@@ -1,3 +1,5 @@
+# Based on OpenAI Gym documentation:
+
 import gym
 import numpy as np
 
